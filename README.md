@@ -5,6 +5,6 @@
 We gaan het hebben over:
 - [frietjes](frietjes.md)
 - *kebab*
-- durum
-- zeker **PIZZA**
+- [durum](durum.md)
+- zeker [**PIZZA**](pizza.md)
   
