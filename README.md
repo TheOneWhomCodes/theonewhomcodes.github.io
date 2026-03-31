@@ -2,8 +2,9 @@
 
 ## Inhoud
 
+We gaan het hebben over:
 - frietjes
-- kebab
-- **PIZZA**
+- *kebab*
 - durum
+- zeker **PIZZA**
   
