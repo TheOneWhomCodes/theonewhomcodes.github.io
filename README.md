@@ -3,7 +3,7 @@
 ## Inhoud
 
 We gaan het hebben over:
-- [frietjes](frietjes.md
+- [frietjes](frietjes.md)
 - *kebab*
 - durum
 - zeker **PIZZA**
