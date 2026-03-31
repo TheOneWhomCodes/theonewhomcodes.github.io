@@ -1,2 +1,9 @@
-# theonewhomcodes.github.io
-site
+# Welkom naar m'n site!
+
+## Inhoud
+
+- frietjes
+- kebab
+- **PIZZA**
+- durum
+  
